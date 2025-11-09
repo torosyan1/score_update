@@ -14,7 +14,7 @@ const crypto = require("crypto");
 
 // ============== TELEGRAM CONFIG ========================
 const BOT_TOKEN  = "8502979590:AAF0cTaLrqbHpOMIJvwAz3WZwwTfUTwGpYw";
-const CHANNEL_ID = "@ETOddsNow";
+const CHANNEL_ID = "@@ETLiveScores";
 
 // ============== API ENDPOINTS ==========================
 const SITES = {
