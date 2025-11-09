@@ -12,10 +12,6 @@ module.exports = {
       },
       log_date_format: "YYYY-MM-DD HH:mm:ss",
     },
-    {
-      name: "another-service",
-      script: "src/another.js",
-      watch: false,
-    },
+
   ],
 };
